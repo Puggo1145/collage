@@ -1,1 +1,8 @@
+dist
 node_modules
+
+# Fuck macOS
+.DS_Store
+
+# Environment Variables
+.env.*
