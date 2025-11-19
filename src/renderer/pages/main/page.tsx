@@ -1,8 +1,10 @@
-import React from "react";
+import MainLayout from "./layout";
 
-const MainWindow: React.FC = () => {
+const MainWindow = () => {
   return (
-    <div className="font-semibold">hello main</div>
+    <MainLayout>
+      <h1>MainWindow</h1>
+    </MainLayout>
   );
 };
 

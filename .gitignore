@@ -1,5 +1,6 @@
 dist
 node_modules
+.webpack
 
 # Fuck macOS
 .DS_Store
